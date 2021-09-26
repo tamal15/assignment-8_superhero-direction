@@ -1,6 +1,6 @@
 # Top Riched people
 
-This project was bootstrapped with [https://romantic-hopper-7feeeb.netlify.app/](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [create react app](https://romantic-hopper-7feeeb.netlify.app/).
 
 ## Main Points
 
