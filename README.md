@@ -1,12 +1,17 @@
-# Top Riched prople
+# Top Riched people
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [https://romantic-hopper-7feeeb.netlify.app/](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Main Points
 
-In the project directory, you can run:
+1. Details to riched people
+2. calculate their gross salary
+3. Identify which person is selected
 
-### `npm start`
+### Tools
+1. react
+2. pure css and Bootstrap
+3. icons-font-Awesome
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,7 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### other resources
+1.json
+font link
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
