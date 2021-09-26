@@ -1,0 +1,16 @@
+.data-container{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.card img{
+    width: 240px;
+    height:200px;
+    /* margin-left: 10px; */
+    margin-top: 8px;
+    margin:5px;
+
+}
+
+.person-details{
+   margin:10px;
+}
