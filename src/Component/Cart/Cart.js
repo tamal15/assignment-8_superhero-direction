@@ -15,11 +15,11 @@ const Cart = (props) => {
 
     return (
         <div className="cart-data">
-            <h6>count:{props.cart.length}</h6>
-            <h5>total:{total.toFixed(2)}</h5>
+            <h4>Total Person:{props.cart.length}</h4>
+            <h4>Total Salary:${total}</h4>
             <ul>
                {
-                   cart.map(onePerson =><li>{onePerson.name}</li>)
+                   cart.map(onePerson =><li className="onePerson">{onePerson.name}</li>)
                }
             </ul>
         </div>

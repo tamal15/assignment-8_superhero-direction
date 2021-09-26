@@ -1,5 +1,9 @@
 .cart-data{
     margin-top: 50px;
-    border:2px solid red;
-    height:250px;
+    background-color:linen;
+    padding:10px;
+}
+.onePerson{
+    background-color:lightgray;
+    padding:5px;
 }

@@ -5,7 +5,7 @@ import Person from './Component/Person/Person';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App background">
       <Header></Header>
       <Person></Person>
     </div>

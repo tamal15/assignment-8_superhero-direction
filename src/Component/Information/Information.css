@@ -3,14 +3,24 @@
     grid-template-columns: 3fr 1fr;
 }
 .card img{
-    width: 240px;
-    height:200px;
+    width: 234px;
+    height:180px;
     /* margin-left: 10px; */
     margin-top: 8px;
     margin:5px;
+    border-radius: 8px;
 
 }
 
-.person-details{
-   margin:10px;
+.card{
+    background-color:linen;
+    margin-left: 5px;
+}
+.button{
+    padding:5px;
+    width:120px;
+}
+
+.fab{
+    padding:7px;
 }

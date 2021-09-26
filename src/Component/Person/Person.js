@@ -23,7 +23,7 @@ const Person = () => {
     return (
         <div className="row">
         <div className="col-md-9">
-            <div className="row">
+            <div className=" row">
                {
                    person.map(persons=> <Information persons={persons}
                     handleButton={handleButton}></Information>)

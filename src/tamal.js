@@ -32,7 +32,8 @@ const tools=[
         img:'https://img.nzz.ch/2021/5/21/8768a86e-98a5-49ea-94a9-dbaceac79b9b.jpeg?width=654&height=872&fit=bounds&quality=75&auto=webp&crop=4869,6492,x0,y440',
         age:65,
         country:'Washington, U.S.',
-        salary:79228080
+        salary:79228080,
+        education:'Harvard degree'
     },
     {
         
@@ -40,7 +41,8 @@ const tools=[
         img:'https://www.outlookindia.com/public/uploads/gallery/20191018/Mark-Zuckerberg_20191018_421_630.jpg',
         age:37,
         country:'New York, U.S.',
-        salary:1600000
+        salary:1600000,
+        education:'Harvard degree'
     },
     {
         
@@ -48,7 +50,8 @@ const tools=[
         img:'https://economictimes.indiatimes.com/thumb/msid-81029400,width-1200,height-900,resizemode-4,imgsize-103030/warren-buffett-1200-bccl.jpg?from=mdr',
         age:91,
         country:'Omaha, Nebraska',
-        salary:10067000 
+        salary:10067000,
+        education:'degree business administration'
     },
     {
         
@@ -56,7 +59,8 @@ const tools=[
         img:'https://www.investopedia.com/thmb/s0vJojomu9RPhLAQ9gTYVQwnklQ=/3861x2574/filters:fill(auto,1)/Larry-Ellison-56cb1fc25f9b5879cc535f0a.jpg',
         age:77,
         country:'New York, U.S.',
-        salary:2097985
+        salary:57748349,
+        education:'physics and mathematics'
     },
     {
         
@@ -64,7 +68,8 @@ const tools=[
         img:'https://www.biography.com/.image/t_share/MTc5ODc2NTUzODU1ODcwOTY1/gettyimages-83414114.jpg',
         age:48,
         country:'Michigan, U.S.',
-        salary:99345787
+        salary:99345787,
+        education:'computer engineering'
     },
     {
         
@@ -72,6 +77,7 @@ const tools=[
         img:'https://www.biography.com/.image/t_share/MTc5ODc5NTMxMDczOTcxMzIy/gettyimages-456023687.jpg',
         age:48,
         country:'Russia, U.S.S.R.',
-        salary:82068259
+        salary:82068259,
+        education:'bachelors degree'
     },
 ]
